@@ -8,13 +8,6 @@ Este repositório foi criado para estudos e experimentos utilizando técnicas de
 - Testar a biblioteca `Auto-Sklearn`.
 - Explorar pipelines automáticos para construção e otimização de modelos.
 
-## 🚀 Estrutura do Projeto
-
-- **notebooks/**: Contém os notebooks Jupyter com os estudos e experimentos realizados.
-- **datasets/**: Diretório reservado para os datasets utilizados nos notebooks.
-- **scripts/**: Scripts auxiliares para automação e execução.
-- **README.md**: Documentação do projeto.
-
 ## 🔧 Ferramentas Utilizadas
 
 - **Linguagem:** Python
