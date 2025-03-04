@@ -22,5 +22,5 @@ Este repositório foi criado para estudos e experimentos utilizando técnicas de
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/data-science-auto-ml.git
+   git clone https://github.com/renanmrbraga/data-science-auto-ml.git
 
